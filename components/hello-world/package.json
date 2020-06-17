@@ -1,0 +1,11 @@
+{
+  "name": "@l-palermo/ui-components.hello-world",
+  "version": "1.0.0",
+  "description": "test component",
+  "main": "index.js",
+  "author": "l-palermo <l-palermo@hotmail.it>",
+  "license": "MIT",
+  "repository": {
+    "url": "ssh://git@github.com/l-palermo/ui-components.git"
+  }
+}
