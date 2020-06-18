@@ -2,12 +2,7 @@
   "name": "ui-components",
   "version": "1.0.0",
   "description": "reusable ui comoponent packages",
-  "main": "index.js",
+  "private": true,
   "author": "l-palermo <l-palermo@hotmail.it>",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "ssh://git@github.com/l-palermo/ui-components.git",
-    "directory": "./components/*"
-  }
+  "license": "MIT"
 }

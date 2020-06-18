@@ -1,12 +1,12 @@
 {
-    "name": "@l-palermo/ui-components.ciao-mondo",
-    "version": "1.0.0",
-    "description": "test component",
-    "main": "index.js",
-    "author": "l-palermo <l-palermo@hotmail.it>",
-    "license": "MIT",
-    "repository": {
-      "url": "ssh://git@github.com/l-palermo/ui-components.git"
-    }
+  "name": "@l-palermo/ui-components.ciao-mondo",
+  "version": "1.0.0",
+  "description": "test component",
+  "main": "src/index.js",
+  "author": "l-palermo <l-palermo@hotmail.it>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/l-palermo/ui-components.git"
   }
-  
+}
